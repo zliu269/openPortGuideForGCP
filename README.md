@@ -38,7 +38,7 @@ Under the `Networking` field, Fill in the `network tags` with your tag. Here, I 
 
 ![Screen Shot 2022-09-19 at 8.57.57 PM](./PortOpenGuide.assets/Screen Shot 2022-09-19 at 8.57.57 PM.png)
 
-Then go through the same firewall creating process, but change the `Targets` to `Specified Target Tags` and fill in the tag you just created.![Screen Shot 2022-09-19 at 8.34.12 PM](./PortOpenGuide.assets/Screen Shot 2022-09-19 at 8.34.12 PM-3635791.png)
+Then go through the same firewall creating process, but change the `Targets` to `Specified Target Tags` and fill in the tag you just created.![Screen Shot 2022-09-19 at 8.34.12 PM](./PortOpenGuide.assets/Screen Shot 2022-09-19 at 8.34.12 PM.png)
 
 The rest will be the same. And this should also work instantly.
 
