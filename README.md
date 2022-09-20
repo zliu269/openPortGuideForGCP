@@ -14,7 +14,7 @@ Click the `Specified target tags` and change it to `All instances in the network
 
 In the `Source IPv4 ranges`, type in `0.0.0.0/0` to allow all IPs to connect to this port. You can also specify the **exact IP address** you want to allow to access this port by typing in the IP directly. (E.g., `192.168.1.1`)
 
-Select your protocol and fill in the `Ports` field with your port. In the example the sock should use a TCP connection and the port should be `9999`.
+Select your protocol and fill in the `Ports` field with your port. In the example the socket should use a TCP connection and the port should be `9999`.
 
 Click create to finish creating the rule and the port should be open instantly.
 
